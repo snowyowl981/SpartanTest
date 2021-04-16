@@ -20,6 +20,8 @@ public class Test : MonoBehaviour
         Debug.Log("Test6");
 
         Debug.Log("Test7");
+
+        Debug.Log("Test9");
     }
 
     // Update is called once per frame
